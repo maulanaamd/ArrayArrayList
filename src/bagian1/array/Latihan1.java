@@ -1,4 +1,4 @@
-package bagian1.latihan1;
+package bagian1.array;
 
 public class Latihan1 {
     public static void main(String[] args) {

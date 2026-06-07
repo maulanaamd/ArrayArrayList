@@ -1,4 +1,4 @@
-package bagian1.latihan1;
+package bagian1.array;
 
 // izin pak, disini saya menggunakan package class Arrays 
 // yang ada didalam package bawaan built in package java.util
